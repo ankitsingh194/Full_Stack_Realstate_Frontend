@@ -4,7 +4,7 @@ import dayjs from "dayjs";
 import {toast} from 'react-toastify'
 
 export const api = axios.create({
-    baseURL: "http://localhost:8000/api"
+    baseURL: "https://full-stack-real-state-website-gq14.vercel.app/api"
 })
 
 
