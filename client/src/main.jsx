@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     domain="dev-2vw57hjlv6dvilav.us.auth0.com"
     clientId="hnscBcGoErvHZbBbGJGtjvoWeKp27bXE"
     authorizationParams={{
-      redirect_uri: "http://localhost:5173"
+      redirect_uri: "https://full-stack-real-state-website-gq14.vercel.app/"
     }}
     audience="http://localhost:8000"
     scope="openid profile email"
